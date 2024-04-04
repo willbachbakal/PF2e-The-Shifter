@@ -31,7 +31,7 @@
   ],
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
-  "download":"#{DOWNLOAD}#",
-  "license":"LICENSE",
-  "readme":"https://homebrewery.naturalcrit.com/share/58XdkdLOpVOg"
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE",
+  "readme": "https://homebrewery.naturalcrit.com/share/58XdkdLOpVOg"
 }
