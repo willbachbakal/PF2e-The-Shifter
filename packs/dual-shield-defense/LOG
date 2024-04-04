@@ -1,1 +1,5 @@
-
+2024/04/04-18:53:26.752 5994 Delete type=3 #1
+2024/04/04-19:01:29.215 4ca4 Level-0 table #5: started
+2024/04/04-19:01:29.225 4ca4 Level-0 table #5: 3101 bytes OK
+2024/04/04-19:01:29.225 4ca4 Delete type=0 #3
+2024/04/04-19:01:29.229 4ca4 Manual compaction at level-0 from '!items!zuPZ7aBxI9lB95Eo' @ 72057594037927935 : 1 .. '!items!zuPZ7aBxI9lB95Eo' @ 0 : 0; will stop at (end)
