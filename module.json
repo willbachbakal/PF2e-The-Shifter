@@ -2,6 +2,8 @@
   "id": "dual-shield-defense",
   "title": "Dual Shield Defense",
   "version": "#{VERSION}#",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -25,8 +27,8 @@
   "esmodules": [
       "scripts/module.js"
   ],
-  "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
   "download":"#{DOWNLOAD}#",
   "license":"LICENSE",
   "readme":"https://homebrewery.naturalcrit.com/share/58XdkdLOpVOg"
