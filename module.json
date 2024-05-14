@@ -1,6 +1,6 @@
 {
-  "id": "dual-shield-defense",
-  "title": "Dual Shield Defense",
+  "id": "expanded-arcane-schools",
+  "title": "Expanded Arcane Schools",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
@@ -9,7 +9,7 @@
     "verified": "11",
     "maximum": "11"
   },
-  "description": "A 1st-level fighter feat for Pathfinder 2nd Edition, allowing a character to fight better using a pair of shields.",
+  "description": "A simple ruleset for creating new arcane schools for the Wizard class in Pathfinder 2nd Edition, with several examples.",
   "authors": [
     {
       "name": "Teridax68",
@@ -18,9 +18,9 @@
   ],
   "packs": [
     {
-      "name": "dual-shield-defense",
-      "label": "Dual Shield Defense",
-      "path": "packs/dual-shield-defense",
+      "name": "expanded-arcane-schools",
+      "label": "Expanded Arcane Schools",
+      "path": "packs/expanded-arcane-schools",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
