@@ -1,14 +1,14 @@
 {
-  "id": "expanded-arcane-schools",
-  "title": "Expanded Arcane Schools",
+  "id": "metamagus-class-archetype",
+  "title": "Metamagus Class Archetype",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
-    "minimum": "11",
+    "minimum": "12",
     "verified": "12",
     "maximum": "12"
   },
-  "description": "A simple ruleset for creating new arcane schools for the Wizard class in Pathfinder Second Edition, with several examples.",
+  "description": "A class archetype for the Magus class in Pathfinder Second Edition, allowing the choice of different spell traditions.",
   "authors": [
     {
       "name": "Teridax68",
@@ -17,9 +17,9 @@
   ],
   "packs": [
     {
-      "name": "expanded-arcane-schools",
-      "label": "Expanded Arcane Schools",
-      "path": "packs/expanded-arcane-schools",
+      "name": "metamagus-class-archetype",
+      "label": "Metamagus Class Archetype",
+      "path": "packs/metamagus-class-archetype",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -32,5 +32,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": "https://homebrewery.naturalcrit.com/share/fZophKBUbhuS"
+  "readme": "https://homebrewery.naturalcrit.com/share/hqLh9AtfK7H9"
 }
