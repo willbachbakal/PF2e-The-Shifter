@@ -3,13 +3,12 @@
   "title": "Expanded Arcane Schools",
   "version": "#{VERSION}#",
   "library": "false",
-  "manifestPlusVersion": "1.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11",
-    "maximum": "11"
+    "verified": "12",
+    "maximum": "12"
   },
-  "description": "A simple ruleset for creating new arcane schools for the Wizard class in Pathfinder 2nd Edition, with several examples.",
+  "description": "A simple ruleset for creating new arcane schools for the Wizard class in Pathfinder Second Edition, with several examples.",
   "authors": [
     {
       "name": "Teridax68",
