@@ -1,6 +1,6 @@
 {
-  "id": "metamagus-class-archetype",
-  "title": "Metamagus Class Archetype",
+  "id": "the-shifter",
+  "title": "The Shifter",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -8,7 +8,7 @@
     "verified": "12",
     "maximum": "12"
   },
-  "description": "A class archetype for the Magus class in Pathfinder Second Edition, allowing the choice of different spell traditions.",
+  "description": "Transform into a powerful creature with this shapeshifting martial class for Pathfinder Second Edition!",
   "authors": [
     {
       "name": "Teridax68",
@@ -17,9 +17,9 @@
   ],
   "packs": [
     {
-      "name": "metamagus-class-archetype",
-      "label": "Metamagus Class Archetype",
-      "path": "packs/metamagus-class-archetype",
+      "name": "the-shifter",
+      "label": "The Shifter",
+      "path": "packs/the-shifter",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -32,5 +32,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": "https://homebrewery.naturalcrit.com/share/hqLh9AtfK7H9"
+  "readme": "https://homebrewery.naturalcrit.com/share/3eXmNtSAY0R-"
 }
