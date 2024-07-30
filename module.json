@@ -8,6 +8,18 @@
     "verified": "12",
     "maximum": "12"
   },
+  "flags": {
+    "the-shifter": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "shifter": "Shifter"
+        },
+        "spellTraits": {
+          "shifter": "Shifter"
+        }
+      }
+    }
+  },
   "description": "Transform into a powerful creature with this shapeshifting martial class for Pathfinder Second Edition!",
   "authors": [
     {
